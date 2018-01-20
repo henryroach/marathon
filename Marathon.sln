@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2020
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Marathon", "Marathon\Marathon.csproj", "{67E2FA9D-C1A0-4656-A012-2ECD4EA13DC4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Marathon.Tests", "Marathon.Tests\Marathon.Tests.csproj", "{8E2827A5-092B-4828-B48E-81C1638D68DA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{67E2FA9D-C1A0-4656-A012-2ECD4EA13DC4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67E2FA9D-C1A0-4656-A012-2ECD4EA13DC4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67E2FA9D-C1A0-4656-A012-2ECD4EA13DC4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67E2FA9D-C1A0-4656-A012-2ECD4EA13DC4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8E2827A5-092B-4828-B48E-81C1638D68DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E2827A5-092B-4828-B48E-81C1638D68DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E2827A5-092B-4828-B48E-81C1638D68DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E2827A5-092B-4828-B48E-81C1638D68DA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6345D986-F6C6-442A-92D9-BD3FB0368C15}
+	EndGlobalSection
+EndGlobal

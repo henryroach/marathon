@@ -1,0 +1,14 @@
+*/bin/*
+*/obj/*
+.nuget/*
+.vs/*
+*.bak
+*.vspscc
+*.user
+*csproj.user
+TestResults/
+*.suo
+*/.vs/
+*.pdb
+*.dll
+*/TestData/
